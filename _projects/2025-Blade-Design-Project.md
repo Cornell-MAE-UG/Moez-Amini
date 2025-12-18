@@ -23,7 +23,7 @@ This project involved the end-to-end design, fabrication, and experimental valid
 To quantify the wind speeds most relevant to long-term energy capture, we modeled the inflow using a **Weibull probability distribution** with shape parameter $$(k = 5)$$ and scale parameter $$(c = 5\: \text{m/s}):$$
 \\[
 p(U) = \frac{k}{c} \left(\frac{U}{c}\right)^{k-1}
-\exp\!\left[-\left(\frac{U}{c}\right)^k\right]
+\exp \left[-\left(\frac{U}{c}\right)^k\right]
 \\]
 
 Rather than optimizing for the most probable wind speed, we evaluated the **power-weighted expectation** of the wind-speed distribution to account for the cubic dependence of aerodynamic power on velocity:
