@@ -2,7 +2,7 @@
 layout: project
 title: Small Wind Turbine Blade Design
 description: Design, fabrication, and experimental validation of a low-Reynolds-number wind turbine blade optimized using a power-weighted Weibull analysis.
-technologies: [Aerodynamics, Blade Element Theory, SolidWorks, Structural Analysis, Wind Tunnel Testing]
+technologies: [Aerodynamics, Blade Element Theory, Fusion360, Structural Analysis, Wind Tunnel Testing, LabView]
 image: /assets/images/blade/blade_design.jpg
 ---
 This project involved the end-to-end design, fabrication, and experimental validation of a three-bladed small wind turbine rotor optimized for low-Reynolds-number operation in a small wind tunnel. Rather than designing for the most common wind speed, our team used a **power-weighted Weibull distribution (k = 5, c = 5 m/s)** to identify the wind speed contributing most significantly to long-term energy capture. This analysis revealed an optimal design wind speed of approximately **5.3 m/s**, which defined the primary operating condition and guided all major aerodynamic and structural decisions. Based on facility constraints, the rotor was designed to operate near **1900 RPM**, corresponding to a target tip-speed ratio of **λ ≈ 6.7**, well within the high-efficiency range for three-bladed horizontal-axis turbines. 

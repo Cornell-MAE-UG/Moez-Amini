@@ -6,7 +6,7 @@ title: Moez Amini
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Avatar.png" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, I am a senior majoring in Mechanical Engineering at Cornell University with a strong background in design, prototyping, and system optimization. I’m passionate about solving complex engineering problems at the intersection of mechanics, electronics, and software.
