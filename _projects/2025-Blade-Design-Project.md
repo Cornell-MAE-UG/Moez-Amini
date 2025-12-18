@@ -3,6 +3,7 @@ layout: project
 title: Small Wind Turbine Blade Design
 description: Design, fabrication, and experimental validation of a low-Reynolds-number wind turbine blade optimized using a power-weighted Weibull analysis.
 technologies: [Aerodynamics, Blade Element Theory, SolidWorks, Structural Analysis, Wind Tunnel Testing]
+image: /assets/images/blade/blade_design.jpg
 ---
 <div class="carousel">
   <button class="carousel-btn prev" aria-label="Previous image">&#10094;</button>
