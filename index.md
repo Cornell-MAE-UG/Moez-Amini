@@ -71,7 +71,9 @@ Mechanical Engineering • Cornell University
 </p>
 
 <p style="font-size: 1.1rem; line-height: 1.75; margin: 0; color: #1a1a1a;">
-I design, build, test, and integrate precision engineering systems. I am a senior Mechanical Engineering student at Cornell University with experience in system-level design, rapid prototyping, and test-driven development. I work across disciplines from concept through prototyping, testing, and integration.
+I design, build, test, and integrate precision engineering systems. I am a senior Mechanical Engineering student at Cornell University and an Early Admit M.Eng. student, with experience in system-level design, rapid prototyping, and test-driven development. I work across disciplines from concept through prototyping, testing, and integration to deliver robust, manufacturable hardware.
+<br><br>
+I am a curious and motivated person who values collaboration and clear communication, and I enjoy working with and supporting others to solve complex, real-world engineering problems.
 </p>
 
 </div>
